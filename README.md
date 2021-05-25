@@ -25,1225 +25,1453 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 
-#EXTINF:-1,GLOBO SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5365
-#EXTINF:-1,GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5309
-#EXTINF:-1,GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5442
-#EXTINF:-1,PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5252
-#EXTINF:-1,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5106
-#EXTINF:-1,PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5481
-#EXTINF:-1,GLOBO RJ FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5352
-#EXTINF:-1,GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5307
-#EXTINF:-1,GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5441
-#EXTINF:-1,A&E FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5189
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5040
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5394
-#EXTINF:-1,AMC FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5190
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5041
-#EXTINF:-1,AMC SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5395
-#EXTINF:-1,ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5191
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5042
-#EXTINF:-1,ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5396
-#EXTINF:-1,ARTE 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/38424
-#EXTINF:-1,ARTE 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17923
-#EXTINF:-1,ARTE 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17913
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5192
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5043
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5397
-#EXTINF:-1,BABY TV  HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/38437
-#EXTINF:-1,BABY TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40009
-#EXTINF:-1,BABY TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17914
-#EXTINF:-1,BAND 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26504
-#EXTINF:-1,BAND CAMPINAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68525
-#EXTINF:-1,BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68524
-#EXTINF:-1,BAND FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5289
-#EXTINF:-1,BAND FHD*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68514
-#EXTINF:-1,BAND HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68519
-#EXTINF:-1,BAND HD*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68513
-#EXTINF:-1,BAND NEWS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5193
-#EXTINF:-1,BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5160
-#EXTINF:-1,BAND NEWS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5401
-#EXTINF:-1,BAND SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/32955
-#EXTINF:-1,BAND SD*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68509
-#EXTINF:-1,BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5194
-#EXTINF:-1,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5044
-#EXTINF:-1,BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5402
-#EXTINF:-1,BIS FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5195
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5045
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5403
-#EXTINF:-1,BOA VONTADE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/57363
-#EXTINF:-1,BOOMERANG FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5196
-#EXTINF:-1,BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17924
-#EXTINF:-1,BOOMERANG SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5404
-#EXTINF:-1,CANAL BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5197
-#EXTINF:-1,CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68534
-#EXTINF:-1,CANAL BRASIL SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5405
-#EXTINF:-1,CANAL DO BOI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45307
-#EXTINF:-1,CANAL DO BOI SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/32956
-#EXTINF:-1,CANAL RURAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/61857
-#EXTINF:-1,CANAL SONY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5046
-#EXTINF:-1,CANAL SONY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5407
-#EXTINF:-1,CANCAO NOVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45249
-#EXTINF:-1,CANÇÃO NOVA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5384
-#EXTINF:-1,CANÇÃO NOVA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5408
-#EXTINF:-1,CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5199
-#EXTINF:-1,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5047
-#EXTINF:-1,CARTOON NETWORK SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5409
-#EXTINF:-1,CINE BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45327
-#EXTINF:-1,CINE SKY 01
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40936
-#EXTINF:-1,CINE SKY 02
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40937
-#EXTINF:-1,CINE SKY 03
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40938
-#EXTINF:-1,CINE SKY 04
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40939
-#EXTINF:-1,CINE SKY 05
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40940
-#EXTINF:-1,CINE SKY 06
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40941
-#EXTINF:-1,CINE SKY 07
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40942
-#EXTINF:-1,CINE SKY 08
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40943
-#EXTINF:-1,CINE SKY 09
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40944
-#EXTINF:-1,CINE SKY 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40945
-#EXTINF:-1,CINEMAX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5200
-#EXTINF:-1,CINEMAX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5048
-#EXTINF:-1,CINEMAX SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5410
-#EXTINF:-1,CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5285
-#EXTINF:-1,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5158
-#EXTINF:-1,CNN BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5540
-#EXTINF:-1,COMBATE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5201
-#EXTINF:-1,COMBATE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5049
-#EXTINF:-1,COMBATE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5411
-#EXTINF:-1,COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5202
-#EXTINF:-1,COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5050
-#EXTINF:-1,COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5412
-#EXTINF:-1,Conmebol TV HD (JOGO 1)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47849
-#EXTINF:-1,Conmebol TV HD (JOGO 2)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47851
-#EXTINF:-1,Conmebol TV HD (JOGO 3)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47853
-#EXTINF:-1,Conmebol TV HD (JOGO 4)  
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47855
-#EXTINF:-1,Conmebol TV FHD (JOGO 2)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/62113
-#EXTINF:-1,Copa do Nordeste 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47857
-#EXTINF:-1,Copa do Nordeste 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47859
-#EXTINF:-1,Copa do Nordeste 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47861
-#EXTINF:-1,Copa do Nordeste 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47863
-#EXTINF:-1,Copa do Nordeste 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47865
-#EXTINF:-1,COPA LIBERTADORES 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47869
-#EXTINF:-1,COPA LIBERTADORES 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47871
-#EXTINF:-1,COPA LIBERTADORES 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47873
-#EXTINF:-1,CULTURA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5518
-#EXTINF:-1,CURTA!
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5413
-#EXTINF:-1,DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47875
-#EXTINF:-1,DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47877
-#EXTINF:-1,DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47879
-#EXTINF:-1,DAZN 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47881
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26506
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5203
-#EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5051
-#EXTINF:-1,DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5414
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5205
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5053
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5415
-#EXTINF:-1,DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5206
-#EXTINF:-1,DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5054
-#EXTINF:-1,DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5416
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5207
-#EXTINF:-1,DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5055
-#EXTINF:-1,DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17916
-#EXTINF:-1,DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5208
-#EXTINF:-1,DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5056
-#EXTINF:-1,DISCOVERY THEATER SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49098
-#EXTINF:-1,DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5209
-#EXTINF:-1,DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5057
-#EXTINF:-1,DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5417
-#EXTINF:-1,DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5210
-#EXTINF:-1,DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5058
-#EXTINF:-1,DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17917
-#EXTINF:-1,DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5211
-#EXTINF:-1,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5059
-#EXTINF:-1,DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5418
-#EXTINF:-1,DISNEY JR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5212
-#EXTINF:-1,DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45293
-#EXTINF:-1,DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5060
-#EXTINF:-1,DISNEY JR SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5419
-#EXTINF:-1,DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5420
-#EXTINF:-1,E! FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5213
-#EXTINF:-1,E! HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45328
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5421
-#EXTINF:-1,GLOBO EPTV CAMPINAS FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68541
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5354
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5423
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5422
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5215
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5064
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5425
-#EXTINF:-1,ESPN 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5216
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5062
-#EXTINF:-1,ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5426
-#EXTINF:-1,ESPN BRASIL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5217
-#EXTINF:-1,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5063
-#EXTINF:-1,ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5427
-#EXTINF:-1,ESPN EXTRA FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5214
-#EXTINF:-1,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5065
-#EXTINF:-1,FILM & ARTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5428
-#EXTINF:-1,FILM & ARTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41425
-#EXTINF:-1,FISH TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17925
-#EXTINF:-1,FISH TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5429
-#EXTINF:-1,FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5219
-#EXTINF:-1,FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5066
-#EXTINF:-1,FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5430
-#EXTINF:-1,FOX 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26507
-#EXTINF:-1,FOX SPORTS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68535
-#EXTINF:-1,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5072
-#EXTINF:-1,FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5433
-#EXTINF:-1,FOX SPORTS 2 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26508
-#EXTINF:-1,FOX SPORTS 2 FHD  
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5224
-#EXTINF:-1,FOX SPORTS 2 HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5071
-#EXTINF:-1,FUTURA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5435
-#EXTINF:-1,FX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5225
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5073
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5436
-#EXTINF:-1,GAZETA 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26509
-#EXTINF:-1,GAZETA SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41695
-#EXTINF:-1,GAZETA SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41808
-#EXTINF:-1,GLOBO ACRE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70528
-#EXTINF:-1,GLOBO ACRE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70527
-#EXTINF:-1,GLOBO BAHIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68521
-#EXTINF:-1,GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68520
-#EXTINF:-1,GLOBO BAHIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/50749
-#EXTINF:-1,GLOBO BELEM FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70531
-#EXTINF:-1,GLOBO BELEM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70530
-#EXTINF:-1,GLOBO BELEM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70529
-#EXTINF:-1,GLOBO BOA VISTA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71694
-#EXTINF:-1,GLOBO BRASILIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/30621
-#EXTINF:-1,GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5437
-#EXTINF:-1,GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5353
-#EXTINF:-1,GLOBO CEARÁ
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71695
-#EXTINF:-1,GLOBO CEARÁ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71696
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71697
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71698
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/69860
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/69859
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/69858
-#EXTINF:-1,GLOBO ES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/50178
-#EXTINF:-1,GLOBO FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71699
-#EXTINF:-1,GLOBO GAZETA ALAGOAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/69517
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71700
-#EXTINF:-1,GLOBO INTER TV CABUGI HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71701
-#EXTINF:-1,GLOBO INTER TV CABUGI²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71702
-#EXTINF:-1,GLOBO INTER TV DOS VALES FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71703
-#EXTINF:-1,GLOBO INTER TV DOS VALES HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71704
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71705
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71706
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71707
-#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71708
-#EXTINF:-1,GLOBO MACAPA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71709
-#EXTINF:-1,GLOBO MACAPA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71710
-#EXTINF:-1,GLOBO MINAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68543
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5339
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5438
-#EXTINF:-1,GLOBO NATAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71711
-#EXTINF:-1,GLOBO NATAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71712
-#EXTINF:-1,GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45264
-#EXTINF:-1,GLOBO NEWS HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5074
-#EXTINF:-1,GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5439
-#EXTINF:-1,GLOBO NORDESTE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5440
-#EXTINF:-1,GLOBO NORDESTE H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71713
-#EXTINF:-1,GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/30731
-#EXTINF:-1,GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41304
-#EXTINF:-1,GLOBO NSC TV BLUMENAL FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71715
-#EXTINF:-1,GLOBO NSC TV BLUMENAU FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68540
-#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68539
-#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68538
-#EXTINF:-1,GLOBO NSC TV CHAPECO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71716
-#EXTINF:-1,GLOBO NSC TV CRICIUMA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71717
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71718
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71719
-#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71720
-#EXTINF:-1,GLOBO PORTO VELHO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71721
-#EXTINF:-1,GLOBO PORTO VELHO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71722
-#EXTINF:-1,GLOBO RBS CAXIAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71723
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71724
-#EXTINF:-1,GLOBO RBS TV PELOTAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71725
-#EXTINF:-1,GLOBO RBS PELOTAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71726
-#EXTINF:-1,GLOBO RBS TV SANTA MARIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71727
-#EXTINF:-1,GLOBO RECIFE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71728
-#EXTINF:-1,GLOBO RECIFE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71729
-#EXTINF:-1,GLOBO RECIFE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71730
-#EXTINF:-1,GLOBO RECIFE HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71731
-#EXTINF:-1,GLOBO REDE AMAZONICA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71732
-#EXTINF:-1,GLOBO REDE AMAZONICA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71733
-#EXTINF:-1,GLOBO RIO INTERIOR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71734
-#EXTINF:-1,GLOBO RIO¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71735
-#EXTINF:-1,GLOBO RPC CURITIBA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49430
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49429
-#EXTINF:-1,GLOBO RPC CURITIBA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5489
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71736
-#EXTINF:-1,GLOBO RPC MARINGA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41689
-#EXTINF:-1,GLOBO RPC MARINGA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49428
-#EXTINF:-1,GLOBO RPC MARINGA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49431
-#EXTINF:-1,GLOBO RPC PARANAVAI FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41687
-#EXTINF:-1,GLOBO RPC PARANAVAI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/30730
-#EXTINF:-1,GLOBO RPC PARANAVAI SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68522
-#EXTINF:-1,GLOBO RPC PONTA GROSSA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71737
-#EXTINF:-1,GLOBO SJRP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71739
-#EXTINF:-1,GLOBO SP DUAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71740
-#EXTINF:-1,GLOBO TRIBUNA SANTOS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68714
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/62003
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD 265*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5513
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70217
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70219
-#EXTINF:-1,GLOBO TV ASA BRANCA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71741
-#EXTINF:-1,GLOBO TV BAHIA FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71742
-#EXTINF:-1,GLOBO TV BAHIA HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71743
-#EXTINF:-1,GLOBO TV BAHIA SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5515
-#EXTINF:-1,GLOBO TV CABO BRANCO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71744
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABÁ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71745
-#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIABÁ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71746
-#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIABÁ FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71747
-#EXTINF:-1,GLOBO TV CLUBE PIAUÍ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71748
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71749
-#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71750
-#EXTINF:-1,GLOBO TV GAZETA FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71751
-#EXTINF:-1,GLOBO TV GAZETA SUL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71752
-#EXTINF:-1,GLOBO TV GRANDE RIO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71753
-#EXTINF:-1,GLOBO TV INTEGRACAO ARAXA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71754
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71755
-#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71756
-#EXTINF:-1,GLOBO TV MIRANTE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71757
-#EXTINF:-1,GLOBO TV MIRANTE FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71758
-#EXTINF:-1,GLOBO TV MIRANTE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71759
-#EXTINF:-1,GLOBO TV MIRANTE HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71760
-#EXTINF:-1,GLOBO TV MORENA FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71761
-#EXTINF:-1,GLOBO TV NACIONAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71762
-#EXTINF:-1,GLOBO TV RIO SUL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/43303
-#EXTINF:-1,GLOBO TV RIO SUL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41696
-#EXTINF:-1,GLOBO TV SANTA CRUZ FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71763
-#EXTINF:-1,GLOBO TV SANTA CRUZ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71764
-#EXTINF:-1,GLOBO TV SERGIPE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71765
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71766
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71767
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71768
-#EXTINF:-1,GLOBO VITORIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71771
-#EXTINF:-1,GLOBO VITORIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5304
-#EXTINF:-1,GLOBOSAT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5238
-#EXTINF:-1,GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5075
-#EXTINF:-1,GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5454
-#EXTINF:-1,GLOOB FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5227
-#EXTINF:-1,GLOOB HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5076
-#EXTINF:-1,GLOOB SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5443
-#EXTINF:-1,GNT FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5228
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5077
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5444
-#EXTINF:-1,HBO 2 FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17912
-#EXTINF:-1,HBO 2 FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5233
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5078
-#EXTINF:-1,HBO 2 SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5449
-#EXTINF:-1,HBO 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26510
-#EXTINF:-1,HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5229
-#EXTINF:-1,HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5079
-#EXTINF:-1,HBO FAMILY SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5446
-#EXTINF:-1,HBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5230
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5080
-#EXTINF:-1,HBO MUNDI FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5239
-#EXTINF:-1,HBO MUNDI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5087
-#EXTINF:-1,HBO PLUS SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5447
-#EXTINF:-1,HBO POP FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5241
-#EXTINF:-1,HBO POP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5089
-#EXTINF:-1,HBO POP SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17920
-#EXTINF:-1,HBO POP SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5457
-#EXTINF:-1,HBO SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5445
-#EXTINF:-1,HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5082
-#EXTINF:-1,HBO SIGNATURE HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45334
-#EXTINF:-1,HBO SIGNATURE SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5448
-#EXTINF:-1,HBO XTREME 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26511
-#EXTINF:-1,HBO XTREME FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5240
-#EXTINF:-1,HBO XTREME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5088
-#EXTINF:-1,HBO XTREME SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5456
-#EXTINF:-1,HGTV FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5204
-#EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5052
-#EXTINF:-1,HGTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17921
-#EXTINF:-1,HISTORY 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5235
-#EXTINF:-1,HISTORY 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5083
-#EXTINF:-1,HISTORY 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5450
-#EXTINF:-1,HISTORY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5234
-#EXTINF:-1,HISTORY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5084
-#EXTINF:-1,HISTORY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5534
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5236
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5085
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5451
-#EXTINF:-1,LIFETIME FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5237
-#EXTINF:-1,LIFETIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5086
-#EXTINF:-1,LIFETIME SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5453
-#EXTINF:-1,LIKEE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41325
-#EXTINF:-1,LIKEE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41326
-#EXTINF:-1,MEGAPIX 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26512
-#EXTINF:-1,MEGAPIX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5242
-#EXTINF:-1,MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5090
-#EXTINF:-1,MEGAPIX SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5458
-#EXTINF:-1,MTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5243
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5091
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5459
-#EXTINF:-1,MULTISHOW 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26513
-#EXTINF:-1,MULTISHOW FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5244
-#EXTINF:-1,MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5092
-#EXTINF:-1,MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5460
-#EXTINF:-1,MUSIC BOX BRAZIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5462
-#EXTINF:-1,MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5461
-#EXTINF:-1,MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45325
-#EXTINF:-1,NAT GEO 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26514
-#EXTINF:-1,NATGEO KIDS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5247
-#EXTINF:-1,NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5094
-#EXTINF:-1,NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5463
-#EXTINF:-1,NATGEO WILD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5246
-#EXTINF:-1,NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5095
-#EXTINF:-1,NATGEO WILD SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5464
-#EXTINF:-1,NICK JR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5249
-#EXTINF:-1,NICK JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5097
-#EXTINF:-1,NICK JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45295
-#EXTINF:-1,NICK JR SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5466
-#EXTINF:-1,NICKELODEON FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5248
-#EXTINF:-1,NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5096
-#EXTINF:-1,NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5467
-#EXTINF:-1,NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45255
-#EXTINF:-1,NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5536
-#EXTINF:-1,NSC TV FLORIANOPOLIS FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68536
-#EXTINF:-1,NSC TV FLORIANOPOLIS HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5348
-#EXTINF:-1,OFF FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5250
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5098
-#EXTINF:-1,OFF SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5468
-#EXTINF:-1,PARAMOUNT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5251
-#EXTINF:-1,PARAMOUNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5099
-#EXTINF:-1,PARAMOUNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5469
-#EXTINF:-1,PLAY KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5543
-#EXTINF:-1,POWER COUPLE BRASIL  H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68515
-#EXTINF:-1,POWER COUPLE BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68516
-#EXTINF:-1,POWER COUPLE BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/66919
-#EXTINF:-1,POWER COUPLE BRASIL HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/64827
-#EXTINF:-1,POWER COUPLE BRASIL HD h264
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68517
-#EXTINF:-1,POWER COUPLE BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68518
-#EXTINF:-1,PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5253
-#EXTINF:-1,PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5100
-#EXTINF:-1,PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5473
-#EXTINF:-1,PREMIERE 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/56159
-#EXTINF:-1,PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5254
-#EXTINF:-1,PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5101
-#EXTINF:-1,PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5474
-#EXTINF:-1,PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5255
-#EXTINF:-1,PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5102
-#EXTINF:-1,PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5475
-#EXTINF:-1,PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5256
-#EXTINF:-1,PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45345
-#EXTINF:-1,PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5476
-#EXTINF:-1,PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5257
-#EXTINF:-1,PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5104
-#EXTINF:-1,PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5477
-#EXTINF:-1,PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5258
-#EXTINF:-1,PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5105
-#EXTINF:-1,PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5478
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FHD  
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68537
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5310
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5483
-#EXTINF:-1,RECORD 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26515
-#EXTINF:-1,RECORD BAHIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70990
-#EXTINF:-1,RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41279
-#EXTINF:-1,RECORD BELEM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70991
-#EXTINF:-1,RECORD BRASILIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70992
-#EXTINF:-1,RECORD BRASILIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5311
-#EXTINF:-1,RECORD ES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/50179
-#EXTINF:-1,RECORD GOIAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68716
-#EXTINF:-1,RECORD GOIAS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70995
-#EXTINF:-1,RECORD GOIAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70996
-#EXTINF:-1,RECORD MANAUS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70998
-#EXTINF:-1,RECORD MINAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68542
-#EXTINF:-1,RECORD MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5179
-#EXTINF:-1,RECORD MINAS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5319
-#EXTINF:-1,RECORD NEWS ES  FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5161
-#EXTINF:-1,RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/50180
-#EXTINF:-1,RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5484
-#EXTINF:-1,RECORD NEWS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17922
-#EXTINF:-1,RECORD RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5320
-#EXTINF:-1,RECORD RJ FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/35165
-#EXTINF:-1,RECORD RS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68510
-#EXTINF:-1,RECORD RS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68511
-#EXTINF:-1,RECORD RS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71001
-#EXTINF:-1,RECORD SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/57255
-#EXTINF:-1,RECORD SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5316
-#EXTINF:-1,RECORD SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68715
-#EXTINF:-1,REDE BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45237
-#EXTINF:-1,REDE TV! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5108
-#EXTINF:-1,REDE TV! SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5487
-#EXTINF:-1,REDE VIDA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45250
-#EXTINF:-1,REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5488
-#EXTINF:-1,SBT 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26516
-#EXTINF:-1,SBT SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68532
-#EXTINF:-1,SBT SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68531
-#EXTINF:-1,SBT PARANA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68527
-#EXTINF:-1,SBT PARANA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68526
-#EXTINF:-1,SBT PARANA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5343
-#EXTINF:-1,SBT RJ FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68529
-#EXTINF:-1,SBT RJ HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5364
-#EXTINF:-1,SBT RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68528
-#EXTINF:-1,SBT SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68530
-#EXTINF:-1,SMITHSONIAN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5162
-#EXTINF:-1,SPACE 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26517
-#EXTINF:-1,SPACE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5261
-#EXTINF:-1,SPACE HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5109
-#EXTINF:-1,SPORTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/29359
-#EXTINF:-1,SPORTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5112
-#EXTINF:-1,SPORTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5494
-#EXTINF:-1,SPACE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49321
-#EXTINF:-1,SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5262
-#EXTINF:-1,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5110
-#EXTINF:-1,SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5495
-#EXTINF:-1,SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5263
-#EXTINF:-1,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5111
-#EXTINF:-1,SPORTV 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5496
-#EXTINF:-1,STAR CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5220
-#EXTINF:-1,STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5067
-#EXTINF:-1,STAR CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5817
-#EXTINF:-1,STAR HITS 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17919
-#EXTINF:-1,STAR HITS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5222
-#EXTINF:-1,STAR HITS 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5070
-#EXTINF:-1,STAR HITS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17918
-#EXTINF:-1,STAR HITS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5221
-#EXTINF:-1,STAR HITS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5069
-#EXTINF:-1,STAR LIFE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17911
-#EXTINF:-1,STAR LIFE HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5068
-#EXTINF:-1,STAR LIFE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5432
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5265
-#EXTINF:-1,STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5113
-#EXTINF:-1,STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5497
-#EXTINF:-1,SYFY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5266
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5114
-#EXTINF:-1,SYFY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5498
-#EXTINF:-1,TBS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5267
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5115
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5499
-#EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/6110
-#EXTINF:-1,TCM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5500
-#EXTINF:-1,TELECINE ACTION FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5268
-#EXTINF:-1,TELECINE ACTION HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5116
-#EXTINF:-1,TELECINE ACTION SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5501
-#EXTINF:-1,TELECINE CULT FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5269
-#EXTINF:-1,TELECINE CULT HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5117
-#EXTINF:-1,TELECINE CULT SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5502
-#EXTINF:-1,TELECINE FUN FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5270
-#EXTINF:-1,TELECINE FUN HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5118
-#EXTINF:-1,TELECINE FUN SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5503
-#EXTINF:-1,TELECINE PIPOCA 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26518
-#EXTINF:-1,TELECINE PIPOCA FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5271
-#EXTINF:-1,TELECINE PIPOCA HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5119
-#EXTINF:-1,TELECINE PIPOCA SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5504
-#EXTINF:-1,TELECINE PREMIUM 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26519
-#EXTINF:-1,TELECINE PREMIUM FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5272
-#EXTINF:-1,TELECINE PREMIUM HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5120
-#EXTINF:-1,TELECINE PREMIUM SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5505
-#EXTINF:-1,TELECINE TOUCH FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5273
-#EXTINF:-1,TELECINE TOUCH HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5121
-#EXTINF:-1,TELECINE TOUCH SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5506
-#EXTINF:-1,TLC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5274
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5122
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5508
-#EXTINF:-1,TNT 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26520
-#EXTINF:-1,TNT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5275
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5123
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5509
-#EXTINF:-1,TNT SERIES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5276
-#EXTINF:-1,TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5124
-#EXTINF:-1,TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5510
-#EXTINF:-1,TNT Sports 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/48007
-#EXTINF:-1,TNT Sports 03 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/48011
-#EXTINF:-1,TNT Sports 04 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/48013
-#EXTINF:-1,TNT Sports 05 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/48015
-#EXTINF:-1,TOONCAST HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5511
-#EXTINF:-1,TRUTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/35753
-#EXTINF:-1,TV APARECIDA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45248
-#EXTINF:-1,TV APARECIDA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5514
-#EXTINF:-1,TV APARECIDA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/57362
-#EXTINF:-1,TV BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/18062
-#EXTINF:-1,TV BRASIL HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45236
-#EXTINF:-1,TV CAMARA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45233
-#EXTINF:-1,TV DIARIO HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5165
-#EXTINF:-1,TV ESCOLA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45238
-#EXTINF:-1,TV EVANGELIZAR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45320
-#EXTINF:-1,TV JUSTICA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45235
-#EXTINF:-1,GLOBO TV LIBERAL BELEM FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5520
-#EXTINF:-1,TV PAI ETERNO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45951
-#EXTINF:-1,TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5127
-#EXTINF:-1,TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5521
-#EXTINF:-1,TV SENADO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45234
-#EXTINF:-1,TV SERGIPE HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5308
-#EXTINF:-1,TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5523
-#EXTINF:-1,TV TEM SOROCABA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5525
-#EXTINF:-1,TV VANGUARDA São José dos Campos SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5392
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5528
-#EXTINF:-1,UNIVERSAL TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5280
-#EXTINF:-1,UNIVERSAL TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5129
-#EXTINF:-1,UNIVERSAL TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5535
-#EXTINF:-1,VH1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5529
-#EXTINF:-1,VIVA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/30742
-#EXTINF:-1,VIVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5131
-#EXTINF:-1,VIVA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5530
-#EXTINF:-1,WARNER CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5282
-#EXTINF:-1,WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5132
-#EXTINF:-1,WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5531
-#EXTINF:-1,WOOHOO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5283
-#EXTINF:-1,WOOHOO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5532
-#EXTINF:-1,ZOOMOO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5533
-#EXTINF:-1,ZOOMOO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/23669
-#EXTINF:-1,[24H] - Aladin
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72932
-#EXTINF:-1,[24H] - As Meninas Superpoderosas
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72933
-#EXTINF:-1,[24H] - Ben 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72934
-#EXTINF:-1,[24H] - Bob Esponja
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72935
-#EXTINF:-1,[24H] - Breaking Bad
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72936
-#EXTINF:-1,[24H] - Cão Coragem
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72937
-#EXTINF:-1,[24H] - Caverna do Dragão
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72938
-#EXTINF:-1,[24H] - Chapolin Colorado
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72939
-#EXTINF:-1,[24H] - Chaves
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72940
-#EXTINF:-1,[24H] - Chaves Desenho
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72941
-#EXTINF:-1,[24H] - Denis o Pimentinha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72942
-#EXTINF:-1,[24H] - Desenhos Biblicos
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72943
-#EXTINF:-1,[24H] - Desenhos Disney
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72944
-#EXTINF:-1,[24H] - Digimon
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72945
-#EXTINF:-1,[24H] - Dois Homens e Meio
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72946
-#EXTINF:-1,[24H] - Doug
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72947
-#EXTINF:-1,[24H] - Dragon Ball
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72948
-#EXTINF:-1,[24H] - Eu a Patroa e as Crianças
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72949
-#EXTINF:-1,[24H] - Galinha Pintadinha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72950
-#EXTINF:-1,[24H] - Guardiões da Galaxia
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72951
-#EXTINF:-1,[24H] - He-Man
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72952
-#EXTINF:-1,[24H] - Historias Disney
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72953
-#EXTINF:-1,[24H] - Pica Pau
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72954
-#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72955
-#EXTINF:-1,[24H] - 3 Palavrinhas
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72956
-#EXTINF:-1,[24H] - A Grande Familia
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72957
-#EXTINF:-1,[24H] - A Feiticeira
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72958
-#EXTINF:-1,[24H] - Mr. Bean
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72959
-#EXTINF:-1,[24H] - Friends - Temp 03
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72960
-#EXTINF:-1,[24H] - Scooby Doo
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72961
-#EXTINF:-1,[24H] - O Máskara
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72962
-#EXTINF:-1,[24H] - Tom E Jerry
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72963
-#EXTINF:-1,[24H] - Caverna Do Dragão
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72964
-#EXTINF:-1,[24H] - Galinha Pintadinha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72965
-#EXTINF:-1,[24H] - Homem Aranha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72966
-#EXTINF:-1,[24H] - Ben 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72967
-#EXTINF:-1,[24H] - Aladdin Desenho Animado
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72968
-#EXTINF:-1,[24H] - As Aventuras De Jackie Chan
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72969
-#EXTINF:-1,[24H] - The Big Bang Theory - Temp 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72970
-#EXTINF:-1,[24H] - Os Padrinhos Mágicos -
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72971
-#EXTINF:-1,[24H] - A Turma Da Monica 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72972
-#EXTINF:-1,[24H] - PJ Masks
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72973
-#EXTINF:-1,[24h] - 101 Dalmatas
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72974
-#EXTINF:-1,[24h] - Desenhos Biblicos 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72975
-#EXTINF:-1,[24h] - Johnny Test
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72976
-#EXTINF:-1,[24h] - Looney Tunes
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72977
-#EXTINF:-1,[24h] - Masha e o Urso 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72978
-#EXTINF:-1,[24h] - Os Backyardigans
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72979
-#EXTINF:-1,[24h] - Teletubbies
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72980
-#EXTINF:-1,[24H] - He Man Desenho 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72981
-#EXTINF:-1,[24H] - Jaspion
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72982
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="http://liebeurl.me/logos/a&e.png" group-title="Canais | Variedades",A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4100
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://liebeurl.me/logos/a&e.png" group-title="Canais | Variedades",A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4102
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="http://liebeurl.me/logos/a&e.png" group-title="Canais | Variedades",A&E SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4103
+#EXTINF:-1 tvg-id="" tvg-name="All KPOP FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSMyzx2NwhxiFkk6cqdxySgGWRjbl8L1sh4Q&usqp=CAU" group-title="Canais | Variedades",All KPOP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48604
+#EXTINF:-1 tvg-id="" tvg-name="All Sports HD" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Canais | Esportes",All Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48606
+#EXTINF:-1 tvg-id="" tvg-name="AllTV HD" tvg-logo="https://alltv.com.br/wp-content/uploads/2018/04/logo.png" group-title="Canais | Variedades",AllTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48605
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="http://liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3704
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3705
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="http://liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4364
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet 4K" tvg-logo="https://www.liebeurl.me/logos/animalplanet.png" group-title="Canais | 4K [Teste]",Animal Planet 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49536
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://www.liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3600
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://www.liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3601
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://www.liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4451
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD" tvg-logo="https://www.liebeurl.me/logos/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49270
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD" tvg-logo="https://www.liebeurl.me/logos/arte1.png" group-title="Canais | Documentários",Arte 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4453
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Arte 1 SD" tvg-logo="https://www.liebeurl.me/logos/arte1.png" group-title="Canais | Documentários",Arte 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49271
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3706
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3707
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4362
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV FHD" tvg-logo="https://www.liebeurl.me/logos/babytv.png" group-title="Canais | Infantis",BabyTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25369
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV HD" tvg-logo="https://www.liebeurl.me/logos/babytv.png" group-title="Canais | Infantis",BabyTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3866
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV SD" tvg-logo="https://www.liebeurl.me/logos/babytv.png" group-title="Canais | Infantis",BabyTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25370
+#EXTINF:-1 tvg-id="" tvg-name="Band Bahia HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48948
+#EXTINF:-1 tvg-id="" tvg-name="Band BSB HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band BSB HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48940
+#EXTINF:-1 tvg-id="" tvg-name="Band Campinas FHD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Campinas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49594
+#EXTINF:-1 tvg-id="" tvg-name="Band Campinas HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48941
+#EXTINF:-1 tvg-id="" tvg-name="Band Curitiba HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Curitiba HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49590
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ FHD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48939
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48942
+#EXTINF:-1 tvg-id="" tvg-name="Band RS HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48943
+#EXTINF:-1 tvg-id="" tvg-name="Band Sergipe HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Sergipe HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48946
+#EXTINF:-1 tvg-id="" tvg-name="Band SP FHD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62827
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48945
+#EXTINF:-1 tvg-id="" tvg-name="Band TV Goiânia HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band TV Goiânia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48938
+#EXTINF:-1 tvg-id="" tvg-name="Band TV Taroba HD" tvg-logo="https://www.liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band TV Taroba HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48947
+#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes SD" tvg-logo="" group-title="Canais | Abertos",Bandeirantes SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49375
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews FHD" tvg-logo="https://www.liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3558
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews HD" tvg-logo="https://www.liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3559
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews SD" tvg-logo="https://www.liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4563
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://www.liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4030
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://www.liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3572
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://www.liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4504
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://www.liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4104
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://www.liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4106
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://www.liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4107
+#EXTINF:-1 tvg-id="" tvg-name="Boa Vontade FHD" tvg-logo="" group-title="Canais | Religiosos",Boa Vontade FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48618
+#EXTINF:-1 tvg-id="" tvg-name="Boas Novas HD" tvg-logo="" group-title="Canais | Religiosos",Boas Novas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48619
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang FHD" tvg-logo="https://www.liebeurl.me/logos/boomerang.png" group-title="Canais | Infantis",Boomerang FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3862
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://www.liebeurl.me/logos/boomerang.png" group-title="Canais | Infantis",Boomerang HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3863
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang SD" tvg-logo="https://www.liebeurl.me/logos/boomerang.png" group-title="Canais | Infantis",Boomerang SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4534
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 HD" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title=" Canais | Esportes PPV",Campeonato Carioca 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49366
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 SD" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title=" Canais | Esportes PPV",Campeonato Carioca 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49518
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2 HD" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title=" Canais | Esportes PPV",Campeonato Carioca 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49367
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2 SD" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title=" Canais | Esportes PPV",Campeonato Carioca 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49517
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 1" tvg-logo="" group-title=" Canais | Esportes PPV",Campeonato Catarinense 1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4031
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 2" tvg-logo="" group-title=" Canais | Esportes PPV",Campeonato Catarinense 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4032
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 3" tvg-logo="" group-title=" Canais | Esportes PPV",Campeonato Catarinense 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4033
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 4" tvg-logo="" group-title=" Canais | Esportes PPV",Campeonato Catarinense 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28862
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 1" tvg-logo="" group-title=" Canais | Esportes PPV",Campeonato Sergipano 1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49535
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 2" tvg-logo="" group-title=" Canais | Esportes PPV",Campeonato Sergipano 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49534
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/13215
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/5977
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/13214
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi SD" tvg-logo="" group-title="Canais | Abertos",Canal do Boi SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48961
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural FHD" tvg-logo="" group-title="Canais | Abertos",Canal Rural FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49272
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony FHD" tvg-logo="https://www.liebeurl.me/logos/sony.png" group-title="Canais | Filmes e Séries",Canal Sony FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3726
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony HD" tvg-logo="https://www.liebeurl.me/logos/sony.png" group-title="Canais | Filmes e Séries",Canal Sony HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3727
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony SD" tvg-logo="https://www.liebeurl.me/logos/sony.png" group-title="Canais | Filmes e Séries",Canal Sony SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4346
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova FHD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48620
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova HD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48621
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova SD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49586
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="https://www.liebeurl.me/logos/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3860
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://www.liebeurl.me/logos/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3861
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="https://www.liebeurl.me/logos/cartoon.png" group-title="Canais | Infantis",Cartoon Network SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4536
+#EXTINF:-1 tvg-id="" tvg-name="CATVE HD" tvg-logo="" group-title="Canais | Abertos",CATVE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49273
+#EXTINF:-1 tvg-id="" tvg-name="Central / Top TV HD" tvg-logo="" group-title="Canais | Abertos",Central / Top TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49274
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="Canais | Variedades",Chef TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25372
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="Canais | Variedades",Chef TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/11677
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="Canais | Variedades",Chef TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49275
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 01
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3588
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 02
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3589
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 03
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3590
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 04
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3591
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 05
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3592
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 06
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/7492
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 07
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/7493
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 08
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/7494
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 09
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/7495
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10" tvg-logo="https://www.liebeurl.me/logos/cinesky.png" group-title="Canais | Filmes e Séries",Cine SKY 10
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/7496
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://www.liebeurl.me/logos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3708
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://www.liebeurl.me/logos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3709
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://www.liebeurl.me/logos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4360
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://www.liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3868
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CNN Brasil HD" tvg-logo="https://www.liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/8060
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CNN Brasil SD" tvg-logo="https://www.liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Brasil SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28864
+#EXTINF:-1 tvg-id="" tvg-name="CNT ES FHD" tvg-logo="" group-title="Canais | Abertos",CNT ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49583
+#EXTINF:-1 tvg-id="" tvg-name="CNT ES HD" tvg-logo="" group-title="Canais | Abertos",CNT ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49584
+#EXTINF:-1 tvg-id="" tvg-name="CNT ES SD" tvg-logo="" group-title="Canais | Abertos",CNT ES SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49585
+#EXTINF:-1 tvg-id="" tvg-name="COM Brasil TV FHD" tvg-logo="" group-title="Canais | Abertos",COM Brasil TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48967
+#EXTINF:-1 tvg-id="" tvg-name="COM Brasil TV HD" tvg-logo="" group-title="Canais | Abertos",COM Brasil TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48968
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate 4K" tvg-logo="https://www.liebeurl.me/logos/combate.png" group-title="Canais | 4K [Teste]",Combate 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49537
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://www.liebeurl.me/logos/combate.png" group-title="Canais | Esportes",Combate FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3669
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://www.liebeurl.me/logos/combate.png" group-title="Canais | Esportes",Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3670
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://www.liebeurl.me/logos/combate.png" group-title="Canais | Esportes",Combate SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4506
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://www.liebeurl.me/logos/comedycentral.png" group-title="Canais | Variedades",Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4110
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://www.liebeurl.me/logos/comedycentral.png" group-title="Canais | Variedades",Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4112
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://www.liebeurl.me/logos/comedycentral.png" group-title="Canais | Variedades",Comedy Central SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4113
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title=" Canais | Esportes PPV",Conmebol TV 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/38561
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD" tvg-logo="http://ucsxiptv.com:8080/images/497f2ab6189a7f86a5c3d68648642390.png" group-title=" Canais | Esportes PPV",Conmebol TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/38498
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 SD" tvg-logo="http://ucsxiptv.com:8080/images/497f2ab6189a7f86a5c3d68648642390.png" group-title=" Canais | Esportes PPV",Conmebol TV 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40644
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title=" Canais | Esportes PPV",Conmebol TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/38563
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 HD" tvg-logo="http://ucsxiptv.com:8080/images/497f2ab6189a7f86a5c3d68648642390.png" group-title=" Canais | Esportes PPV",Conmebol TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/38503
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 SD" tvg-logo="http://ucsxiptv.com:8080/images/497f2ab6189a7f86a5c3d68648642390.png" group-title=" Canais | Esportes PPV",Conmebol TV 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40645
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title=" Canais | Esportes PPV",Conmebol TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/38568
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 HD" tvg-logo="http://ucsxiptv.com:8080/images/497f2ab6189a7f86a5c3d68648642390.png" group-title=" Canais | Esportes PPV",Conmebol TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/38555
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 SD" tvg-logo="http://ucsxiptv.com:8080/images/497f2ab6189a7f86a5c3d68648642390.png" group-title=" Canais | Esportes PPV",Conmebol TV 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40646
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title=" Canais | Esportes PPV",Conmebol TV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/38567
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD" tvg-logo="http://ucsxiptv.com:8080/images/497f2ab6189a7f86a5c3d68648642390.png" group-title=" Canais | Esportes PPV",Conmebol TV 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/38556
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 SD" tvg-logo="http://ucsxiptv.com:8080/images/497f2ab6189a7f86a5c3d68648642390.png" group-title=" Canais | Esportes PPV",Conmebol TV 4 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40647
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 1 HD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25371
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 1 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62609
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2 HD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25387
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62610
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 3 HD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25388
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 3 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62611
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 4 HD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28861
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 4 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 4 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62612
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 5 HD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49530
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 5 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 5 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62613
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 6 HD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49531
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 6 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Copa do Nordeste 6 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62614
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! FHD" tvg-logo="https://www.liebeurl.me/logos/curta.png" group-title="Canais | Variedades",Curta! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4455
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="https://www.liebeurl.me/logos/curta.png" group-title="Canais | Variedades",Curta! HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4457
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="https://www.liebeurl.me/logos/curta.png" group-title="Canais | Variedades",Curta! SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4458
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://www.liebeurl.me/logos/dazn.png" group-title=" Canais | Esportes PPV",DAZN 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/13946
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://www.liebeurl.me/logos/dazn.png" group-title=" Canais | Esportes PPV",DAZN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48617
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://www.liebeurl.me/logos/dazn.png" group-title=" Canais | Esportes PPV",DAZN 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28877
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://www.liebeurl.me/logos/dazn.png" group-title=" Canais | Esportes PPV",DAZN 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/8072
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel 4K" tvg-logo="https://www.liebeurl.me/logos/discoverychannel.png" group-title="Canais | 4K [Teste]",Discovery Channel 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49538
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel FHD" tvg-logo="https://www.liebeurl.me/logos/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4459
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://www.liebeurl.me/logos/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4461
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel SD" tvg-logo="https://www.liebeurl.me/logos/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4462
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H FHD" tvg-logo="https://www.liebeurl.me/logos/discoveryh&h.png" group-title="Canais | Documentários",Discovery H&H FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4463
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H HD" tvg-logo="https://www.liebeurl.me/logos/discoveryh&h.png" group-title="Canais | Documentários",Discovery H&H HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4465
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H SD" tvg-logo="https://www.liebeurl.me/logos/discoveryh&h.png" group-title="Canais | Documentários",Discovery H&H SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4466
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://www.liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3852
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="https://www.liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3853
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://www.liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4538
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="https://www.liebeurl.me/logos/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4467
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="https://www.liebeurl.me/logos/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4469
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science SD" tvg-logo="https://www.liebeurl.me/logos/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4470
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://www.liebeurl.me/logos/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4471
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://www.liebeurl.me/logos/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4473
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://www.liebeurl.me/logos/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4474
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC FHD" tvg-logo="https://www.liebeurl.me/logos/tlc.png" group-title="Canais | Documentários",Discovery TLC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4182
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC HD" tvg-logo="https://www.liebeurl.me/logos/tlc.png" group-title="Canais | Documentários",Discovery TLC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4184
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC SD" tvg-logo="https://www.liebeurl.me/logos/tlc.png" group-title="Canais | Documentários",Discovery TLC SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25439
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://www.liebeurl.me/logos/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4118
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="https://www.liebeurl.me/logos/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4120
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo SD" tvg-logo="https://www.liebeurl.me/logos/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4121
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="https://www.liebeurl.me/logos/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4475
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://www.liebeurl.me/logos/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4477
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="https://www.liebeurl.me/logos/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4478
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD" tvg-logo="https://www.liebeurl.me/logos/disney.png" group-title="Canais | Infantis",Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3854
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="https://www.liebeurl.me/logos/disney.png" group-title="Canais | Infantis",Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3855
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="https://www.liebeurl.me/logos/disney.png" group-title="Canais | Infantis",Disney Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4540
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior FHD" tvg-logo="https://www.liebeurl.me/logos/disneyjr.png" group-title="Canais | Infantis",Disney Junior FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3857
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior HD" tvg-logo="https://www.liebeurl.me/logos/disneyjr.png" group-title="Canais | Infantis",Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3856
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior SD" tvg-logo="https://www.liebeurl.me/logos/disneyjr.png" group-title="Canais | Infantis",Disney Junior SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4542
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD FHD" tvg-logo="https://www.liebeurl.me/logos/disneyxd.png" group-title="Canais | Infantis",Disney XD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3858
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD" tvg-logo="https://www.liebeurl.me/logos/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3859
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD SD" tvg-logo="https://www.liebeurl.me/logos/disneyxd.png" group-title="Canais | Infantis",Disney XD SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4544
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DogTV FHD" tvg-logo="https://www.liebeurl.me/logos/dogtv.png" group-title="Canais | Variedades",DogTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4123
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DogTV HD" tvg-logo="https://www.liebeurl.me/logos/dogtv.png" group-title="Canais | Variedades",DogTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4122
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! FHD" tvg-logo="https://www.liebeurl.me/logos/e!.png" group-title="Canais | Variedades",E! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4124
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="https://www.liebeurl.me/logos/e!.png" group-title="Canais | Variedades",E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4126
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD" tvg-logo="https://www.liebeurl.me/logos/e!.png" group-title="Canais | Variedades",E! SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4127
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48592
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 HD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48593
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48594
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 HD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48595
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 FHD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48596
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 HD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48597
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 FHD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48598
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 HD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48599
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5 FHD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48600
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5 HD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48601
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 FHD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48602
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 HD" tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title=" Canais | Esportes PPV",Eleven Sports 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48603
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://www.liebeurl.me/logos/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3683
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://www.liebeurl.me/logos/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3682
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://www.liebeurl.me/logos/espn2.png" group-title="Canais | ESPN",ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4526
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil FHD" tvg-logo="https://www.liebeurl.me/logos/espnbrasil.png" group-title="Canais | ESPN",ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3686
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://www.liebeurl.me/logos/espnbrasil.png" group-title="Canais | ESPN",ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3687
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://www.liebeurl.me/logos/espnbrasil.png" group-title="Canais | ESPN",ESPN Brasil SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4528
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra FHD" tvg-logo="https://www.liebeurl.me/logos/espnextra.png" group-title="Canais | ESPN",ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4054
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://www.liebeurl.me/logos/espnextra.png" group-title="Canais | ESPN",ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28850
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="https://www.liebeurl.me/logos/espnextra.png" group-title="Canais | ESPN",ESPN Extra SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28851
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://www.liebeurl.me/logos/espn.png" group-title="Canais | ESPN",ESPN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3678
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://www.liebeurl.me/logos/espn.png" group-title="Canais | ESPN",ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4053
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://www.liebeurl.me/logos/espn.png" group-title="Canais | ESPN",ESPN SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4532
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 1 HD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title=" Canais | Esportes PPV",Estádio TNT Sports 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49370
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 1 SD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title=" Canais | Esportes PPV",Estádio TNT Sports 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62615
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 2 HD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title=" Canais | Esportes PPV",Estádio TNT Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49371
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 2 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62616
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 3 HD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title=" Canais | Esportes PPV",Estádio TNT Sports 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49372
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 3 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62617
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 4 HD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title=" Canais | Esportes PPV",Estádio TNT Sports 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49373
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 4 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 4 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62618
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 5 HD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title=" Canais | Esportes PPV",Estádio TNT Sports 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49374
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 5 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 5 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62619
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 6 HD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62620
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 6 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 6 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62621
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 7 HD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62622
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 7 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 7 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62623
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 8 HD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 8 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62624
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 8 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 8 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62625
+#EXTINF:-1 tvg-id="" tvg-name="Facebook Watch" tvg-logo="" group-title=" Canais | Esportes PPV",Facebook Watch
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/41465
+#EXTINF:-1 tvg-id="" tvg-name="Facebook Watch²" tvg-logo="" group-title=" Canais | Esportes PPV",Facebook Watch²
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/41466
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FashionTV FHD" tvg-logo="" group-title="Canais | Variedades",FashionTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4128
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FashionTV HD" tvg-logo="" group-title="Canais | Variedades",FashionTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49532
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts FHD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62829
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Canais | Filmes e Séries",Film & Arts HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62830
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Canais | Filmes e Séries",Film & Arts SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62831
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="https://www.liebeurl.me/logos/fishtv.png" group-title="Canais | Variedades",Fish TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4129
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://www.liebeurl.me/logos/fishtv.png" group-title="Canais | Variedades",Fish TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4131
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://www.liebeurl.me/logos/fishtv.png" group-title="Canais | Variedades",Fish TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4132
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV FHD" tvg-logo="http://iv.pe/QlP" group-title=" Canais | Esportes PPV",FlaTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/10342
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV HD" tvg-logo="http://iv.pe/QlP" group-title=" Canais | Esportes PPV",FlaTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49516
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network FHD" tvg-logo="https://www.liebeurl.me/logos/foodnetwork.png" group-title="Canais | Variedades",Food Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4133
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD" tvg-logo="https://www.liebeurl.me/logos/foodnetwork.png" group-title="Canais | Variedades",Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4135
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network SD" tvg-logo="https://www.liebeurl.me/logos/foodnetwork.png" group-title="Canais | Variedades",Food Network SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4136
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 TV HD" tvg-logo="" group-title=" Canais | Esportes PPV",Formula 1 TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/56783
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 FHD" tvg-logo="https://www.liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3692
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="https://www.liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3693
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="https://www.liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4508
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports 4K" tvg-logo="https://www.liebeurl.me/logos/foxsports1.png" group-title="Canais | 4K [Teste]",Fox Sports 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49539
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports FHD" tvg-logo="https://www.liebeurl.me/logos/foxsports1.png" group-title="Canais | Esportes",Fox Sports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3694
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="https://www.liebeurl.me/logos/foxsports1.png" group-title="Canais | Esportes",Fox Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3695
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports SD" tvg-logo="https://www.liebeurl.me/logos/foxsports1.png" group-title="Canais | Esportes",Fox Sports SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4510
+#EXTINF:-1 tvg-id="" tvg-name="Futura FHD" tvg-logo="" group-title="Canais | Abertos",Futura FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49277
+#EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="" group-title="Canais | Abertos",Futura HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49278
+#EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="" group-title="Canais | Abertos",Futura SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49598
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="https://www.liebeurl.me/logos/fx.png" group-title="Canais | Filmes e Séries",FX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3719
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://www.liebeurl.me/logos/fx.png" group-title="Canais | Filmes e Séries",FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3720
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://www.liebeurl.me/logos/fx.png" group-title="Canais | Filmes e Séries",FX SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4352
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo 4K" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | 4K [Teste]",Globo 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49540
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica - Manaus HD " tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Amazônica - Manaus HD 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48478
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica - Manaus SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Amazônica - Manaus SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49600
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Amazônica FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48520
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica HD " tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Amazônica HD 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48479
+#EXTINF:-1 tvg-id="" tvg-name="Globo Anhanguera Goiânia HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Anhanguera Goiânia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40650
+#EXTINF:-1 tvg-id="" tvg-name="Globo Anhanguera Goiânia SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Anhanguera Goiânia SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25870
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Bahia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49588
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49589
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Centro America FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48480
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Centro America HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48481
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Centro America SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48482
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/16666
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48484
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48485
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV Ribeirão Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48486
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV Ribeirão Preto SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49597
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48487
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48488
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV Sul de Minas SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48489
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV São Carlos HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48490
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo EPTV São Carlos SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/34232
+#EXTINF:-1 tvg-id="" tvg-name="Globo Goiânia SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Goiânia SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25887
+#EXTINF:-1 tvg-id="" tvg-name="Globo Integração MG FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Integração MG FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62810
+#EXTINF:-1 tvg-id="" tvg-name="Globo Integração MG HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Integração MG HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62809
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter do Vale FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Inter do Vale FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62811
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter do Vale HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Inter do Vale HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62812
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter PT FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Inter PT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48492
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter PT HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Inter PT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48493
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48494
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48496
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48497
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Internacional HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Internacional HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/16674
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Cabugi FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo InterTV Cabugi FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48495
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Cabugi HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo InterTV Cabugi HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48491
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Cabugi SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo InterTV Cabugi SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25881
+#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Manaus HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28894
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48498
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48499
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Minas SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48500
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://www.liebeurl.me/logos/globonews.png" group-title="Canais | Notícias",Globo News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3778
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="https://www.liebeurl.me/logos/globonews.png" group-title="Canais | Notícias",Globo News HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3779
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News SD" tvg-logo="https://www.liebeurl.me/logos/globonews.png" group-title="Canais | Notícias",Globo News SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4568
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25896
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48502
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Nordeste SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48503
+#EXTINF:-1 tvg-id="" tvg-name="Globo NOW" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NOW
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48504
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Centro Oeste FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC Centro Oeste FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48505
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianopolis FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC Florianopolis FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48506
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianopolis HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC Florianopolis HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48507
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianopolis SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC Florianopolis SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48508
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48509
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC TV Blumenau SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48510
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC TV Chapeco FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48511
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Criciuma FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC TV Criciuma FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48512
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48513
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC TV Joinville HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/43151
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Santa Catarina HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo NSC TV Santa Catarina HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49578
+#EXTINF:-1 tvg-id="" tvg-name="Globo Paraíba HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Paraíba HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40663
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40655
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS Porto Alegre SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25904
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48514
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/43154
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48515
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40670
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS TV POA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48516
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS TV POA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48517
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS TV POA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48518
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RBS TV Santa Maria FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48519
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25910
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48522
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RJ SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48523
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Curitiba FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48526
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48527
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Curitiba SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48528
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Foz do Iguaçu FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48524
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Foz do Iguaçu HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49614
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Maringa HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48525
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Paranavaí FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62814
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Paranavaí HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62813
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paraná HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Paraná HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49579
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Ponta Grossa FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Ponta Grossa FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48529
+#EXTINF:-1 tvg-id="" tvg-name="Globo S.J do Rio Preto SD " tvg-logo="" group-title="Canais | Globo",Globo S.J do Rio Preto SD 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40636
+#EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Sergipe HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28881
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48530
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48531
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo SP SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48532
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera  SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Anhanguera  SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48533
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48565
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Anhanguera HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48566
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Asa Branca FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48535
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca HD" tvg-logo="" group-title="Canais | Globo",Globo TV Asa Branca HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40665
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48536
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48537
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Bahia SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48538
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Belem FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48539
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Belem HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48540
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Belem SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48541
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Brasilia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48542
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Brasilia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48543
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Brasilia SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48544
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48545
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Clube FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48546
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Clube HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49610
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração JF FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Integração JF FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48547
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Mirante FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48548
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Mirante HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48549
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Mirante SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48550
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena - Ponta Pora HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Morena - Ponta Pora HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49570
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Morena FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48551
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Morena HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48552
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Morena SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48553
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Recife FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Recife FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48554
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Rio Sul FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48555
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM SJRP" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV TEM SJRP
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48556
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Tem Sorocaba HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48557
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Tem Sorocaba SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48558
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Tribuna FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40638
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Tribuna HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48559
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Tribuna SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48560
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J dos Campos FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/45335
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J dos Campos HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48561
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J dos Campos SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25922
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Verdes Mares FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48562
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Verdes Mares HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48563
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Verdes Mares SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48564
+#EXTINF:-1 tvg-id="" tvg-name="Globo Vitória ES FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Vitória ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40654
+#EXTINF:-1 tvg-id="" tvg-name="Globo Vitória ES HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Vitória ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28879
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="https://www.liebeurl.me/logos/gloob.png" group-title="Canais | Infantis",Gloob FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3849
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://www.liebeurl.me/logos/gloob.png" group-title="Canais | Infantis",Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3850
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="https://www.liebeurl.me/logos/gloob.png" group-title="Canais | Infantis",Gloob SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4546
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho FHD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/13218
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho HD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3851
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho SD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis",Gloobinho SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4548
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://www.liebeurl.me/logos/gnt.png" group-title="Canais | Variedades",GNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4141
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://www.liebeurl.me/logos/gnt.png" group-title="Canais | Variedades",GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4143
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://www.liebeurl.me/logos/gnt.png" group-title="Canais | Variedades",GNT SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4144
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title=" Canais | Esportes PPV",Golf Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62821
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title=" Canais | Esportes PPV",Golf Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62822
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD" tvg-logo="https://www.liebeurl.me/logos/h2.png" group-title="Canais | Documentários",H2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4479
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="https://www.liebeurl.me/logos/h2.png" group-title="Canais | Documentários",H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4481
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD" tvg-logo="https://www.liebeurl.me/logos/h2.png" group-title="Canais | Documentários",H2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4482
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://www.liebeurl.me/logos/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3823
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://www.liebeurl.me/logos/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3824
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://www.liebeurl.me/logos/hbo2.png" group-title="Canais | HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4087
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="https://www.liebeurl.me/logos/hbo.png" group-title="Canais | 4K [Teste]",HBO 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49542
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://www.liebeurl.me/logos/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3825
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://www.liebeurl.me/logos/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3826
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://www.liebeurl.me/logos/hbofamily.png" group-title="Canais | HBO",HBO Family SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4088
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://www.liebeurl.me/logos/hbo.png" group-title="Canais | HBO",HBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3827
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://www.liebeurl.me/logos/hbo.png" group-title="Canais | HBO",HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3828
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://www.liebeurl.me/logos/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3829
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Mundi HD" tvg-logo="https://www.liebeurl.me/logos/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3830
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD" tvg-logo="https://www.liebeurl.me/logos/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4091
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus FHD" tvg-logo="https://www.liebeurl.me/logos/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3831
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="https://www.liebeurl.me/logos/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3832
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD" tvg-logo="https://www.liebeurl.me/logos/hboplus.png" group-title="Canais | HBO",HBO Plus SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4588
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="https://www.liebeurl.me/logos/hbopop.png" group-title="Canais | HBO",HBO Pop FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3833
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Pop HD" tvg-logo="https://www.liebeurl.me/logos/hbopop.png" group-title="Canais | HBO",HBO Pop HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3834
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Pop SD" tvg-logo="https://www.liebeurl.me/logos/hbopop.png" group-title="Canais | HBO",HBO Pop SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4095
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://www.liebeurl.me/logos/hbo.png" group-title="Canais | HBO",HBO SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4584
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://www.liebeurl.me/logos/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3835
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://www.liebeurl.me/logos/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3836
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://www.liebeurl.me/logos/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4097
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme 4K" tvg-logo="http://a5.vc/0aN" group-title="Canais | 4K [Teste]",HBO Xtreme 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/57273
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://www.liebeurl.me/logos/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4594
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Xtreme HD" tvg-logo="https://www.liebeurl.me/logos/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3837
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Xtreme SD" tvg-logo="https://www.liebeurl.me/logos/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4099
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://www.liebeurl.me/logos/hgtv.png" group-title="Canais | Documentários",HGTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4483
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://www.liebeurl.me/logos/hgtv.png" group-title="Canais | Documentários",HGTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4485
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://www.liebeurl.me/logos/hgtv.png" group-title="Canais | Documentários",HGTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4486
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel FHD" tvg-logo="https://www.liebeurl.me/logos/history.png" group-title="Canais | Documentários",History Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4487
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="https://www.liebeurl.me/logos/history.png" group-title="Canais | Documentários",History Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4489
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel SD" tvg-logo="https://www.liebeurl.me/logos/history.png" group-title="Canais | Documentários",History Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4490
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID: Investigacao Discovery FHD" tvg-logo="https://www.liebeurl.me/logos/id.png" group-title="Canais | Documentários",ID: Investigacao Discovery FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4145
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID: Investigacao Discovery HD" tvg-logo="https://www.liebeurl.me/logos/id.png" group-title="Canais | Documentários",ID: Investigacao Discovery HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4147
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID: Investigacao Discovery SD" tvg-logo="https://www.liebeurl.me/logos/id.png" group-title="Canais | Documentários",ID: Investigacao Discovery SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4148
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Mundial FHD" tvg-logo="" group-title="Canais | Religiosos",Igreja Mundial FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48622
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal HD" tvg-logo="" group-title="Canais | Religiosos",Igreja Universal HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48623
+#EXTINF:-1 tvg-id="" tvg-name="InterTV Cabo Frio HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",InterTV Cabo Frio HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49580
+#EXTINF:-1 tvg-id="" tvg-name="InterTV RJ - Região Serrana FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",InterTV RJ - Região Serrana FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49595
+#EXTINF:-1 tvg-id="" tvg-name="InterTV RJ - Região Serrana HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",InterTV RJ - Região Serrana HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49596
+#EXTINF:-1 tvg-id="" tvg-name="ITV HD" tvg-logo="" group-title="Canais | Abertos",ITV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48969
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News FHD" tvg-logo="" group-title="Canais | Abertos",Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49279
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://www.liebeurl.me/logos/lifetime.png" group-title="Canais | Variedades",Lifetime FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4149
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://www.liebeurl.me/logos/lifetime.png" group-title="Canais | Variedades",Lifetime HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4151
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime SD" tvg-logo="https://www.liebeurl.me/logos/lifetime.png" group-title="Canais | Variedades",Lifetime SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4152
+#EXTINF:-1 tvg-id="" tvg-name="Loading TV FHD" tvg-logo="" group-title="Canais | Abertos",Loading TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40639
+#EXTINF:-1 tvg-id="" tvg-name="Loading TV HD" tvg-logo="" group-title="Canais | Abertos",Loading TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49533
+#EXTINF:-1 tvg-id="" tvg-name="Loading TV SD" tvg-logo="" group-title="Canais | Abertos",Loading TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49608
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature FHD" tvg-logo="https://2.bp.blogspot.com/-WXbh7TcBGoo/W4WLHuVLzLI/AAAAAAABLvM/yUaNuY9jgaQ1tm44c1x_ScT0A3U15oudQCLcBGAs/s1600/brand_love-nature.jpg" group-title="Canais | Variedades",Love Nature FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/41312
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat FHD" tvg-logo="https://www.liebeurl.me/logos/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4153
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat HD" tvg-logo="https://www.liebeurl.me/logos/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4155
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat SD" tvg-logo="https://www.liebeurl.me/logos/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4156
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Mais_na_Tela_%282020%29.png" group-title="Canais | Documentários",Mais na Tela FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62605
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Mais_na_Tela_%282020%29.png" group-title="Canais | Documentários",Mais na Tela HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62606
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Mais_na_Tela_%282020%29.png" group-title="Canais | Documentários",Mais na Tela SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62607
+#EXTINF:-1 tvg-id="" tvg-name="Master TV HD" tvg-logo="" group-title="Canais | Abertos",Master TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48970
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix 4K" tvg-logo="https://www.liebeurl.me/logos/megapix.png" group-title="Canais | 4K [Teste]",Megapix 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49543
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="https://www.liebeurl.me/logos/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3722
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://www.liebeurl.me/logos/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3721
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="https://www.liebeurl.me/logos/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4350
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico Premiere FHD" tvg-logo="https://1.bp.blogspot.com/-hAuikdaqkYA/WiGyGMDSelI/AAAAAAABBw4/QiG8UCt5R245wCmGTl9rZoyErc6ZOjmFwCLcBGAs/s1600/2752761_x720.jpg" group-title="Canais | Premiere",Mosaico Premiere FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62823
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico Premiere HD" tvg-logo="https://1.bp.blogspot.com/-hAuikdaqkYA/WiGyGMDSelI/AAAAAAABBw4/QiG8UCt5R245wCmGTl9rZoyErc6ZOjmFwCLcBGAs/s1600/2752761_x720.jpg" group-title="Canais | Premiere",Mosaico Premiere HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62824
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="https://www.liebeurl.me/logos/mtv.png" group-title="Canais | Variedades",MTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4164
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://www.liebeurl.me/logos/mtv.png" group-title="Canais | Variedades",MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4159
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="https://www.liebeurl.me/logos/mtv.png" group-title="Canais | Variedades",MTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25581
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K" tvg-logo="https://www.liebeurl.me/logos/multishow.png" group-title="Canais | 4K [Teste]",Multishow 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49544
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow FHD" tvg-logo="https://www.liebeurl.me/logos/multishow.png" group-title="Canais | Variedades",Multishow FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4165
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://www.liebeurl.me/logos/multishow.png" group-title="Canais | Variedades",Multishow HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4167
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow SD" tvg-logo="https://www.liebeurl.me/logos/multishow.png" group-title="Canais | Variedades",Multishow SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4168
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil FHD" tvg-logo="https://www.liebeurl.me/logos/musicboxbrazil.png" group-title="Canais | Variedades",Music Box Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4169
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil HD" tvg-logo="https://www.liebeurl.me/logos/musicboxbrazil.png" group-title="Canais | Variedades",Music Box Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4170
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil SD" tvg-logo="https://www.liebeurl.me/logos/musicboxbrazil.png" group-title="Canais | Variedades",Music Box Brasil SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4171
+#EXTINF:-1 tvg-id="" tvg-name="MyCujoo TV 1 HD" tvg-logo="" group-title=" Canais | Esportes PPV",MyCujoo TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/56787
+#EXTINF:-1 tvg-id="" tvg-name="MyCujoo TV 2 HD" tvg-logo="" group-title=" Canais | Esportes PPV",MyCujoo TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/56788
+#EXTINF:-1 tvg-id="" tvg-name="MyCujoo TV 3 HD" tvg-logo="" group-title=" Canais | Esportes PPV",MyCujoo TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/56789
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids FHD" tvg-logo="https://www.liebeurl.me/logos/natgeokids.png" group-title="Canais | Infantis",NatGeo Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3842
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids HD" tvg-logo="https://www.liebeurl.me/logos/natgeokids.png" group-title="Canais | Infantis",NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3843
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids SD" tvg-logo="https://www.liebeurl.me/logos/natgeokids.png" group-title="Canais | Infantis",NatGeo Kids SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4550
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic 4K" tvg-logo="http://a5.vc/Vsq" group-title="Canais | 4K [Teste]",National Geographic 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49545
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="https://www.liebeurl.me/logos/nationalgeographic.png" group-title="Canais | Documentários",National Geographic FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4491
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="https://www.liebeurl.me/logos/nationalgeographic.png" group-title="Canais | Documentários",National Geographic HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4493
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="https://www.liebeurl.me/logos/nationalgeographic.png" group-title="Canais | Documentários",National Geographic SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4494
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic Wild FHD" tvg-logo="https://www.liebeurl.me/logos/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4495
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic Wild HD" tvg-logo="https://www.liebeurl.me/logos/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4497
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic Wild SD" tvg-logo="https://www.liebeurl.me/logos/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4498
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass FHD" tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title=" Canais | Esportes PPV",NBA League Pass FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/46066
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass HD" tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title=" Canais | Esportes PPV",NBA League Pass HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/46067
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr FHD" tvg-logo="https://www.liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis",Nick Jr FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3845
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr HD" tvg-logo="https://www.liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis",Nick Jr HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3846
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr SD" tvg-logo="https://www.liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis",Nick Jr SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4554
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon FHD" tvg-logo="https://www.liebeurl.me/logos/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3847
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://www.liebeurl.me/logos/nick.png" group-title="Canais | Infantis",Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3848
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="https://www.liebeurl.me/logos/nick.png" group-title="Canais | Infantis",Nickelodeon SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4555
+#EXTINF:-1 tvg-id="" tvg-name="Nova Era FHD" tvg-logo="" group-title="Canais | Religiosos",Nova Era FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48624
+#EXTINF:-1 tvg-id="" tvg-name="Nova Manchete HD" tvg-logo="" group-title="Canais | Variedades",Nova Manchete HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48610
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off FHD" tvg-logo="https://www.liebeurl.me/logos/off.png" group-title="Canais | Variedades",Off FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4172
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off HD" tvg-logo="https://www.liebeurl.me/logos/off.png" group-title="Canais | Variedades",Off HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4174
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off SD" tvg-logo="https://www.liebeurl.me/logos/off.png" group-title="Canais | Variedades",Off SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4175
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="https://www.liebeurl.me/logos/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3723
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="https://www.liebeurl.me/logos/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3724
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel SD" tvg-logo="https://www.liebeurl.me/logos/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4348
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV FHD" tvg-logo="https://www.liebeurl.me/logos/playtv.png" group-title="Canais | Variedades",Play TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49280
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV HD" tvg-logo="https://www.liebeurl.me/logos/playtv.png" group-title="Canais | Variedades",Play TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49281
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV SD" tvg-logo="https://www.liebeurl.me/logos/playtv.png" group-title="Canais | Variedades",Play TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/1547
+#EXTINF:-1 tvg-id="aande.br" tvg-name="PlayKids FHD" tvg-logo="https://www.liebeurl.me/logos/playkids.png" group-title="Canais | Infantis",PlayKids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4556
+#EXTINF:-1 tvg-id="" tvg-name="PlayKids HD" tvg-logo="https://www.liebeurl.me/logos/playkids.png" group-title="Canais | Infantis",PlayKids HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3841
+#EXTINF:-1 tvg-id="aande.br" tvg-name="PlayKids SD" tvg-logo="https://www.liebeurl.me/logos/playkids.png" group-title="Canais | Infantis",PlayKids SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40642
+#EXTINF:-1 tvg-id="" tvg-name="Polishop FHD" tvg-logo="" group-title="Canais | Abertos",Polishop FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48971
+#EXTINF:-1 tvg-id="" tvg-name="Polishop SD" tvg-logo="" group-title="Canais | Abertos",Polishop SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49599
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil HD" tvg-logo="https://i.imgur.com/9iuLa6k.png" group-title="Canais | PPV",Power Couple Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/63363
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3871
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3872
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4512
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3873
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3874
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4514
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4056
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3875
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4516
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3876
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3877
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4518
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4057
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3878
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4520
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4058
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3879
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4522
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 HD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/18276
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes 4K" tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [Teste]",Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49546
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3881
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3882
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes SD" tvg-logo="https://www.liebeurl.me/logos/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4524
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="https://www.liebeurl.me/logos/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4177
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brasil HD" tvg-logo="https://www.liebeurl.me/logos/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4179
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV FHD" tvg-logo="" group-title="Canais | Abertos",RBI TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49282
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Maria FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",RBS TV Santa Maria FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40653
+#EXTINF:-1 tvg-id="" tvg-name="RBT Rede Brasil TV HD" tvg-logo="" group-title="Canais | Abertos",RBT Rede Brasil TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48972
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV SD" tvg-logo="" group-title=" Canais | Esportes PPV",Real Madrid TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/11689
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record 4K" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | 4K [Teste]",Record 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49547
+#EXTINF:-1 tvg-id="" tvg-name="Record BA HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record BA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48958
+#EXTINF:-1 tvg-id="" tvg-name="Record BH Minas HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record BH Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48906
+#EXTINF:-1 tvg-id="" tvg-name="Record Brasilia HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record Brasilia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48907
+#EXTINF:-1 tvg-id="" tvg-name="Record ES HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48960
+#EXTINF:-1 tvg-id="" tvg-name="Record Itapoan - Bahia HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record Itapoan - Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48922
+#EXTINF:-1 tvg-id="" tvg-name="Record Manaus HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record Manaus HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48921
+#EXTINF:-1 tvg-id="" tvg-name="Record News FHD" tvg-logo="https://www.liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias",Record News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62826
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="https://www.liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias",Record News HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3514
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="https://www.liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias",Record News SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4570
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48915
+#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48908
+#EXTINF:-1 tvg-id="" tvg-name="Record Sao Jose Rio Preto HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record Sao Jose Rio Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48909
+#EXTINF:-1 tvg-id="" tvg-name="Record Sergipe - Tv Atalaia HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record Sergipe - Tv Atalaia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48910
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48911
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Belém HD" tvg-logo="" group-title="Canais | Abertos",Record TV Belém HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48959
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Cabralia HD Bahia" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record TV Cabralia HD Bahia
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48916
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Goiânia HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record TV Goiânia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49528
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Litoral Santos HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record TV Litoral Santos HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48913
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record TV Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48914
+#EXTINF:-1 tvg-id="" tvg-name="Record Tv Parana HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record Tv Parana HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48920
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Paranaíba - Uberlandia-MG HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record TV Paranaíba - Uberlandia-MG HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48917
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Santa Catarina HD" tvg-logo="https://www.liebeurl.me/logos/record.png" group-title="Canais | Abertos",Record TV Santa Catarina HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48919
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Thathi Campinas FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Canais | Abertos",Record TV Thathi Campinas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49593
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Thathi Campinas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Canais | Abertos",Record TV Thathi Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49577
+#EXTINF:-1 tvg-id="" tvg-name="Rede Familia FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Familia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48625
+#EXTINF:-1 tvg-id="" tvg-name="Rede Genesis FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Genesis FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48626
+#EXTINF:-1 tvg-id="" tvg-name="Rede Genesis SD" tvg-logo="" group-title="Canais | Religiosos",Rede Genesis SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48627
+#EXTINF:-1 tvg-id="" tvg-name="Rede Minas" tvg-logo="" group-title="Canais | Abertos",Rede Minas
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49529
+#EXTINF:-1 tvg-id="" tvg-name="Rede Super FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Super FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48628
+#EXTINF:-1 tvg-id="" tvg-name="Rede Super SD" tvg-logo="" group-title="Canais | Religiosos",Rede Super SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48629
+#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="" group-title="Canais | Religiosos",Rede Século 21
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48630
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV FHD" tvg-logo="" group-title="Canais | Abertos",Rede TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48631
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="" group-title="Canais | Abertos",Rede TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48632
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV SD" tvg-logo="" group-title="Canais | Abertos",Rede TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48633
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Religiosos",Rede Vida SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49368
+#EXTINF:-1 tvg-id="rittv.br" tvg-name="RIT TV FHD" tvg-logo="" group-title="Canais | Religiosos",RIT TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48634
+#EXTINF:-1 tvg-id="rittv.br" tvg-name="RIT TV HD" tvg-logo="" group-title="Canais | Religiosos",RIT TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49522
+#EXTINF:-1 tvg-id="" tvg-name="Santuário de Fátima FHD" tvg-logo="" group-title="Canais | Religiosos",Santuário de Fátima FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48636
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | 4K [Teste]",SBT 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49548
+#EXTINF:-1 tvg-id="" tvg-name="SBT BA HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT BA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48949
+#EXTINF:-1 tvg-id="" tvg-name="SBT BSB HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT BSB HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48925
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES FHD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48924
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49573
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES SD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT ES SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49572
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT GO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48950
+#EXTINF:-1 tvg-id="" tvg-name="SBT Int SP FHD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT Int SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48951
+#EXTINF:-1 tvg-id="" tvg-name="SBT MA SD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT MA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48952
+#EXTINF:-1 tvg-id="" tvg-name="SBT MG TV Alterosa HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT MG TV Alterosa HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48935
+#EXTINF:-1 tvg-id="" tvg-name="SBT MT HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT MT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48953
+#EXTINF:-1 tvg-id="" tvg-name="SBT Parana HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT Parana HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48934
+#EXTINF:-1 tvg-id="" tvg-name="SBT PI FHD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT PI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48954
+#EXTINF:-1 tvg-id="" tvg-name="SBT PR HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT PR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48955
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ FHD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48937
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48936
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48926
+#EXTINF:-1 tvg-id="" tvg-name="SBT Sergipe -Tv Aperiper HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT Sergipe -Tv Aperiper HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48927
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48956
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48928
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT SP SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48957
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Aratu Bahia HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT TV Aratu Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48929
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Serra Dourada HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT TV Serra Dourada HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48923
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas FHD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT VTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49592
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas HD" tvg-logo="https://www.liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT VTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49591
+#EXTINF:-1 tvg-id="" tvg-name="Shoptime SD" tvg-logo="" group-title="Canais | Abertos",Shoptime SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49143
+#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="Smithsonian Channel HD" tvg-logo="https://www.liebeurl.me/logos/smithsonian.png" group-title="Canais | Filmes e Séries",Smithsonian Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/45691
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://www.liebeurl.me/logos/space.png" group-title="Canais | Filmes e Séries",Space FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3728
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://www.liebeurl.me/logos/space.png" group-title="Canais | Filmes e Séries",Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3729
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="https://www.liebeurl.me/logos/space.png" group-title="Canais | Filmes e Séries",Space SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4344
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://www.liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3696
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://www.liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3697
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://www.liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/5991
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://www.liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3698
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://www.liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3699
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://www.liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/5992
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="https://www.liebeurl.me/logos/sportv.png" group-title="Canais | 4K [Teste]",SporTV 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49549
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://www.liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3700
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://www.liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/11691
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://www.liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28857
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel 4K" tvg-logo="http://a5.vc/Ck2" group-title="Canais | 4K [Teste]",Star Channel 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49550
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel FHD" tvg-logo="https://www.liebeurl.me/logos/fox.png" group-title="Canais | Filmes e Séries",Star Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3711
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel HD" tvg-logo="https://www.liebeurl.me/logos/fox.png" group-title="Canais | Filmes e Séries",Star Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3712
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel SD" tvg-logo="https://www.liebeurl.me/logos/fox.png" group-title="Canais | Filmes e Séries",Star Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4356
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Star Hits 1 FHD" tvg-logo="https://www.liebeurl.me/logos/foxpremium1.png" group-title="Canais | Filmes e Séries",Star Hits 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3715
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Star Hits 1 HD" tvg-logo="https://www.liebeurl.me/logos/foxpremium1.png" group-title="Canais | Filmes e Séries",Star Hits 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3716
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Star Hits 1 SD" tvg-logo="https://www.liebeurl.me/logos/foxpremium1.png" group-title="Canais | Filmes e Séries",Star Hits 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4358
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Star Hits 2 FHD" tvg-logo="https://www.liebeurl.me/logos/foxpremium2.png" group-title="Canais | Filmes e Séries",Star Hits 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3717
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Star Hits 2 HD" tvg-logo="https://www.liebeurl.me/logos/foxpremium2.png" group-title="Canais | Filmes e Séries",Star Hits 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3718
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Star Hits 2 SD" tvg-logo="https://www.liebeurl.me/logos/foxpremium2.png" group-title="Canais | Filmes e Séries",Star Hits 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4354
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life FHD" tvg-logo="https://www.liebeurl.me/logos/foxlife.png" group-title="Canais | Variedades",Star Life FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/5986
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life HD" tvg-logo="https://www.liebeurl.me/logos/foxlife.png" group-title="Canais | Variedades",Star Life HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4139
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life SD" tvg-logo="https://www.liebeurl.me/logos/foxlife.png" group-title="Canais | Variedades",Star Life SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4140
+#EXTINF:-1 tvg-id="" tvg-name="Status do COVID-19" tvg-logo="https://www.liebeurl.me/logos/covid.jpg" group-title="Canais | Variedades",Status do COVID-19
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4181
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="https://www.liebeurl.me/logos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3736
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://www.liebeurl.me/logos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3737
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://www.liebeurl.me/logos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4342
+#EXTINF:-1 tvg-id="" tvg-name="Summer TV HD" tvg-logo="" group-title="Canais | Abertos",Summer TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48973
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy FHD" tvg-logo="https://www.liebeurl.me/logos/syfy.png" group-title="Canais | Filmes e Séries",Syfy FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/11173
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="https://www.liebeurl.me/logos/syfy.png" group-title="Canais | Filmes e Séries",Syfy HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/5996
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy SD" tvg-logo="https://www.liebeurl.me/logos/syfy.png" group-title="Canais | Filmes e Séries",Syfy SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/5997
+#EXTINF:-1 tvg-id="" tvg-name="Taormina TV HD" tvg-logo="" group-title="Canais | Variedades",Taormina TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48608
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49283
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="https://www.liebeurl.me/logos/tbs.png" group-title="Canais | Filmes e Séries",TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/5998
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="https://www.liebeurl.me/logos/tbs.png" group-title="Canais | Filmes e Séries",TBS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/5999
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://www.liebeurl.me/logos/tcm.png" group-title="Canais | Filmes e Séries",TCM FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49284
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://www.liebeurl.me/logos/tcm.png" group-title="Canais | Filmes e Séries",TCM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/25663
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://www.liebeurl.me/logos/tcm.png" group-title="Canais | Filmes e Séries",TCM SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3738
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD" tvg-logo="https://www.liebeurl.me/logos/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3895
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="https://www.liebeurl.me/logos/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3896
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action SD" tvg-logo="https://www.liebeurl.me/logos/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4076
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://www.liebeurl.me/logos/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3897
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="https://www.liebeurl.me/logos/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3898
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult SD" tvg-logo="https://www.liebeurl.me/logos/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4078
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://www.liebeurl.me/logos/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3899
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="https://www.liebeurl.me/logos/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3900
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun SD" tvg-logo="https://www.liebeurl.me/logos/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4080
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca 4K" tvg-logo="http://a5.vc/mOL" group-title="Canais | 4K [Teste]",Telecine Pipoca 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49551
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://www.liebeurl.me/logos/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3901
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://www.liebeurl.me/logos/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3902
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://www.liebeurl.me/logos/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4082
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium 4K" tvg-logo="https://www.liebeurl.me/logos/telecinepremium.png" group-title="Canais | 4K [Teste]",Telecine Premium 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49552
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://www.liebeurl.me/logos/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3903
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://www.liebeurl.me/logos/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3904
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium SD" tvg-logo="https://www.liebeurl.me/logos/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4596
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://www.liebeurl.me/logos/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3905
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://www.liebeurl.me/logos/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3906
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://www.liebeurl.me/logos/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4578
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva FHD" tvg-logo="" group-title="Canais | Abertos",Terra Viva FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62608
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva HD" tvg-logo="" group-title="Canais | Abertos",Terra Viva HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48974
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva SD" tvg-logo="" group-title="Canais | Abertos",Terra Viva SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49602
+#EXTINF:-1 tvg-id="" tvg-name="The KPOP FHD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Variedades",The KPOP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48607
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="http://a5.vc/gOR" group-title="Canais | 4K [Teste]",TNT 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/57274
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3739
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3740
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="Canais | Filmes e Séries",TNT SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4340
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series 4K" tvg-logo="http://a5.vc/oQe" group-title="Canais | 4K [Teste]",TNT Series 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49553
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series FHD" tvg-logo="https://www.liebeurl.me/logos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3741
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD" tvg-logo="https://www.liebeurl.me/logos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3742
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series SD" tvg-logo="https://www.liebeurl.me/logos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4338
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="https://www.liebeurl.me/logos/tooncast.png" group-title="Canais | Infantis",Tooncast FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/5993
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://www.liebeurl.me/logos/tooncast.png" group-title="Canais | Infantis",Tooncast HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/8049
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://www.liebeurl.me/logos/tooncast.png" group-title="Canais | Infantis",Tooncast SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3840
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil FHD" tvg-logo="" group-title="Canais | Variedades",Travel Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/62828
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil HD" tvg-logo="http://iv.pe/RVG" group-title="Canais | Variedades",Travel Box Brazil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4186
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV FHD" tvg-logo="https://www.liebeurl.me/logos/trutv.png" group-title="Canais | Documentários",TruTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49285
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV HD" tvg-logo="https://www.liebeurl.me/logos/trutv.png" group-title="Canais | Documentários",TruTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4499
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV SD" tvg-logo="https://www.liebeurl.me/logos/trutv.png" group-title="Canais | Documentários",TruTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40628
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="" group-title="Canais | Religiosos",TV Aparecida FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48637
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="" group-title="Canais | Religiosos",TV Aparecida SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49603
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil HD" tvg-logo="" group-title="Canais | Abertos",TV Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48975
+#EXTINF:-1 tvg-id="" tvg-name="TV Camara SD" tvg-logo="" group-title="Canais | Abertos",TV Camara SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48964
+#EXTINF:-1 tvg-id="" tvg-name="TV Capixaba" tvg-logo="http://www.tvcapixaba.com.br/wp-content/themes/tvcapixaba/images/logo.png" group-title="Canais | Abertos",TV Capixaba
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49582
+#EXTINF:-1 tvg-id="" tvg-name="TV Coxa HD" tvg-logo="" group-title=" Canais | Esportes PPV",TV Coxa HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/63365
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura FHD" tvg-logo="" group-title="Canais | Abertos",TV Cultura FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49587
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura HD" tvg-logo="" group-title="Canais | Abertos",TV Cultura HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48981
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura SD" tvg-logo="" group-title="Canais | Abertos",TV Cultura SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48962
+#EXTINF:-1 tvg-id="" tvg-name="TV das Artes" tvg-logo="" group-title="Canais | Abertos",TV das Artes
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48978
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Alagoas SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Gazeta Alagoas SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48568
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Gazeta FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48569
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Gazeta HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48570
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP HD" tvg-logo="https://4.bp.blogspot.com/-02UGvCVbggU/XuaRaj-VeVI/AAAAAAAAGUM/7Fjv0FqRVKU5ayqXoD88a66CeM6hKdVlACK4BGAYYCw/s1600/GASETA.png" group-title="Canais | Globo",TV Gazeta SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/34172
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Sul SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Gazeta Sul SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48571
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideoes HD" tvg-logo="" group-title="Canais | Religiosos",TV Gideoes HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48639
+#EXTINF:-1 tvg-id="" tvg-name="TV Imaculada HD" tvg-logo="" group-title="Canais | Religiosos",TV Imaculada HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48640
+#EXTINF:-1 tvg-id="" tvg-name="TV Justica SD" tvg-logo="" group-title="Canais | Abertos",TV Justica SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48963
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém HD" tvg-logo="https://pbs.twimg.com/profile_images/1122159591326928896/jPyuj2QP_400x400.jpg" group-title="Canais | Globo",TV Liberal Belém HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40633
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém SD" tvg-logo="https://pbs.twimg.com/profile_images/1122159591326928896/jPyuj2QP_400x400.jpg" group-title="Canais | Globo",TV Liberal Belém SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49604
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo FHD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48641
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo HD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48642
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo SD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49607
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno FHD" tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48643
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno HD" tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48644
+#EXTINF:-1 tvg-id="" tvg-name="TV Pampa RS HD" tvg-logo="" group-title="Canais | Abertos",TV Pampa RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48976
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://www.liebeurl.me/logos/ratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4560
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://www.liebeurl.me/logos/ratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4561
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Rio Sul HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40660
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Rio Sul SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48572
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Santa Cruz FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48573
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/40657
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Santa Cruz SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48574
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado FHD" tvg-logo="https://static.clubsrv.me/logos/canais/tvsenado.png" group-title="Canais | Abertos",TV Senado FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49605
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado SD" tvg-logo="https://static.clubsrv.me/logos/canais/tvsenado.png" group-title="Canais | Abertos",TV Senado SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49606
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Sergipe FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48575
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Sergipe SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48576
+#EXTINF:-1 tvg-id="" tvg-name="TV Subae HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Subae HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49571
+#EXTINF:-1 tvg-id="" tvg-name="TV Tem Bauru FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Tem Bauru FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48577
+#EXTINF:-1 tvg-id="" tvg-name="TV Tem Bauru HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Tem Bauru HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48578
+#EXTINF:-1 tvg-id="" tvg-name="TV Tem Bauru SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",TV Tem Bauru SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48579
+#EXTINF:-1 tvg-id="" tvg-name="TV UAI HD" tvg-logo="" group-title="Canais | Abertos",TV UAI HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48977
+#EXTINF:-1 tvg-id="" tvg-name="TV Vitória ES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Vit%C3%B3ria_%282016%E2%80%932019%29.png" group-title="Canais | Abertos",TV Vitória ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49575
+#EXTINF:-1 tvg-id="" tvg-name="TV Vitória ES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Vit%C3%B3ria_%282016%E2%80%932019%29.png" group-title="Canais | Abertos",TV Vitória ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49576
+#EXTINF:-1 tvg-id="" tvg-name="TV Vitória ES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Vit%C3%B3ria_%282016%E2%80%932019%29.png" group-title="Canais | Abertos",TV Vitória ES SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49574
+#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="" group-title="Canais | Abertos",TVE Bahia
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/49377
+#EXTINF:-1 tvg-id="" tvg-name="TVE FHD" tvg-logo="" group-title="Canais | Abertos",TVE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48979
+#EXTINF:-1 tvg-id="" tvg-name="TVE RS FHD" tvg-logo="" group-title="Canais | Abertos",TVE RS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/48980
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal TV FHD" tvg-logo="https://www.liebeurl.me/logos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/28860
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal TV HD" tvg-logo="https://www.liebeurl.me/logos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3744
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal TV SD" tvg-logo="https://www.liebeurl.me/logos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4335
